@@ -8,3 +8,5 @@ Debian:
 * gnome-themes-extras
 * gtk2-engines-murrine
 * murrine-themes
+* Soothe gtk2.0 theme: http://lassekongo83.deviantart.com/art/Soothe-199342656
+* Evolvere icones theme: https://github.com/franksouza183/EvolvereSuit
