@@ -1,0 +1,486 @@
+{
+	"folder_history":
+	[
+		"/home/bcapitanio/Sources/github",
+		"/home/bcapitanio/Sources/github/system",
+		"/home/bcapitanio/Sources/Richemont"
+	],
+	"last_version": 3114,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1041.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 72.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"sspy",
+						"Set Syntax: Python"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"go",
+						"Set Syntax: Go"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bcapitanio/Sources/Richemont/tools/elasticsearch-shield-mgmt/es_shield_mgmt.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_indice_size_yesterday.py",
+				"/home/bcapitanio/Sources/github/system/python/elastic_zabbix_auth.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_indice_size.py",
+				"/home/bcapitanio/Sources/Richemont/es_shield.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_top_senders.py",
+				"/home/bcapitanio/Sources/github/system/python/elastic_zabbix_v2.py",
+				"/home/bcapitanio/Sources/github/system/go/elastic_v2.go",
+				"/home/bcapitanio/Sources/github/system/go/elastic.go",
+				"/home/bcapitanio/Sources/github/system/go/dig.go",
+				"/home/bcapitanio/Sources/github/system/go/resolv.go",
+				"/home/bcapitanio/Sources/github/system/go/http_v2.go",
+				"/home/bcapitanio/Sources/github/system/go/header.go",
+				"/home/bcapitanio/.i3/config",
+				"/home/bcapitanio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/bcapitanio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "#! env python\n\nimport elasticsearch\nimport sys\nimport operator\nfrom optparse import OptionParser\nfrom fabric.api import local, settings, run, env\n\nenv.key_filename = '/home/jenkins_admin/.ssh/id_dsa'\n\n\ndef get_disk_usage(host):\n    run(\"df -h\")\n\nusage = 'usage: %prog [options]'\nparser = OptionParser(usage=usage)\nparser.add_option(\"-H\", \"--host\", dest=\"es_host\", help=\"Elasticsearch host\")\nparser.add_option(\"-u\", \"--user\", dest=\"es_user\", help=\"Shield user\")\nparser.add_option(\"-p\", \"--password\", dest=\"es_password\", help=\"Shield password\")\n(options, args) = parser.parse_args()\n\nind_size_dict = {}\n\ntry:\n    es = elasticsearch.Elasticsearch(hosts=options.es_host, http_auth=(options.es_user, options.es_password))\n    cat_cli = elasticsearch.client.CatClient(es)\nexcept elasticsearch.ConnectionError as e:\n    print 'Error during connection:\\r\\n\\t%s' % e\n    sys.exit(2)\n\ntry:\n    ind_size = cat_cli.indices(index='logstash-*', bytes='g', h='i,store.size', v=False)\n    ind_size_list = ind_size.split('\\n')\n    for i in ind_size_list:\n        if len(i.split()) > 1:\n            temp_list = i.split()\n            ind_size_dict[temp_list[0]] = temp_list[1]\nexcept elasticsearch.ElasticsearchException as e:\n    print 'Error during query:\\r\\n\\t%s' % e\n    sys.exit(2)\n\nfor i in sorted(ind_size_dict.items(), key=operator.itemgetter(0)):\n    print '%s: %sG' % (i[0], i[1])",
+					"settings":
+					{
+						"buffer_size": 1371,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bcapitanio/Sources/Richemont/tools/elasticsearch-shield-mgmt/es_shield_mgmt.py",
+					"settings":
+					{
+						"buffer_size": 7183,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 212.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"sspy",
+						"Set Syntax: Python"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						"go",
+						"Set Syntax: Go"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/bcapitanio/Sources/Richemont",
+				"/home/bcapitanio/Sources/Richemont/tools",
+				"/home/bcapitanio/Sources/Richemont/tools/elasticsearch-shield-mgmt"
+			],
+			"file_history":
+			[
+				"/home/bcapitanio/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/bcapitanio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/bcapitanio/Sources/Richemont/tools/elasticsearch-shield-mgmt/es_shield_mgmt.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_indice_size_yesterday.py",
+				"/home/bcapitanio/Sources/github/system/python/elastic_zabbix_auth.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_indice_size.py",
+				"/home/bcapitanio/Sources/Richemont/es_shield.py",
+				"/home/bcapitanio/Sources/Richemont/tools/es_top_senders.py",
+				"/home/bcapitanio/Sources/github/system/python/elastic_zabbix_v2.py",
+				"/home/bcapitanio/Sources/github/system/go/elastic_v2.go",
+				"/home/bcapitanio/Sources/github/system/go/elastic.go",
+				"/home/bcapitanio/Sources/github/system/go/dig.go",
+				"/home/bcapitanio/Sources/github/system/go/resolv.go",
+				"/home/bcapitanio/Sources/github/system/go/http_v2.go",
+				"/home/bcapitanio/Sources/github/system/go/header.go",
+				"/home/bcapitanio/.i3/config",
+				"/home/bcapitanio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bcapitanio/Sources/Richemont"
+				},
+				{
+					"path": "/home/bcapitanio/Sources/github"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1371,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										246,
+										246
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bcapitanio/Sources/Richemont/tools/elasticsearch-shield-mgmt/es_shield_mgmt.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										205,
+										205
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,18,1916,1059,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
